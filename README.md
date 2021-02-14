@@ -1,4 +1,4 @@
-# WP ListingPro Mass Exploiter
+# WordPress ListingPro Mass Exploiter
 Theme/Plugin site : https://listingprowp.com<br>
 Using GNU Parallel. You must have parallel for using this tool
 # Install Parallel
