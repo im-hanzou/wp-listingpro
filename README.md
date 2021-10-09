@@ -9,4 +9,4 @@ Windows : https://stackoverflow.com/questions/52393850/how-to-install-gnu-parall
 # Reference
 https://adonis.khusus.me/wordpress-listingpro-less-2513-unauthentication-plugins-install
 # Donate
-BTC : 3Avek8froL5sdAmzPUTDNhhpkKe21CscKP
+BTC : 1KW2RmVwjEF99TFptRH7mABykGYgX2iuSP
